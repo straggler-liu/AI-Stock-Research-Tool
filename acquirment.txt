@@ -1,8 +1,0 @@
-crewai
-langchain-anthropic
-yfinance
-duckduckgo-search
-pandas
-numpy
-python-dotenv
-streamlit
